@@ -34,3 +34,8 @@ from tensorflow.keras.optimizers import Adam
 from tensorflow.keras.regularizers import l2
 from tensorflow.keras.callbacks import EarlyStopping, ReduceLROnPlateau
 
+CLEAR INATRUCTIONS TO RUN 
+INSTALL ALL THE DEPENDENCIES 
+DOWNLOAD THE DATASET 
+KEEP THE DATASET AND JUPYTER NOTEBOOK IN SAME FOLDER 
+AND RUN
